@@ -48,7 +48,7 @@ FAQ
 ## Kiev:
 
 ## Kharkiv:
-
+[PShatalov/kottans-js-2016](https://github.com/PShatalov/kottans-js-2016.git)
 ## Lviv:
 
 8. Я выполнил все задания и прошел курс. Что делать?
