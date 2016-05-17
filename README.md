@@ -51,6 +51,7 @@ FAQ
 ## Kharkiv:
 [termosa/kottans-js-2016](https://github.com/termosa/kottans-js-2016)
 [PShatalov/kottans-js-2016](https://github.com/PShatalov/kottans-js-2016.git)
+[SergDi/kottans-js-2016](https://github.com/SergDi/kottans2016.git)
 
 ## Lviv:
 
