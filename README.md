@@ -49,7 +49,9 @@ FAQ
 
 ## Kharkiv:
 
-## Lviv:
+## Lviv: 
+
+[Iryna Vas'kiv](https://github.com/irkafox/JS2016-3-)
 
 8. Я выполнил все задания и прошел курс. Что делать?
 ---------------------------
