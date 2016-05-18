@@ -52,8 +52,21 @@ FAQ
 + [kyriiherman/kottans-js-2016](https://github.com/kyriiherman/kottans-js-2016.git)
 + [ienovytskyi/kottans-js-2016](https://github.com/ienovytskyi/kottans-js-2016.git)
 + [quodnon/catwork-js-2016](https://github.com/quodnon/catwork-js-2016.git)
-+ [cwayfinder/kottans-js-2016](https://github.com/cwayfinder/kottans-js-2016) 
-+ [alexey-kuliw/kottans-homework](https://github.com/alexey-kuliw/kottans-homework.git)  
++ [cwayfinder/kottans-js-2016](https://github.com/cwayfinder/kottans-js-2016)
++ [alexey-kuliw/kottans-homework](https://github.com/alexey-kuliw/kottans-homework.git)
++ [vrd/kottans-js-2016](https://github.com/vrd/kottans-js-2016.git)
++ [MarinaZadoyanchuk/kottans-js-2016](https://github.com/MarinaZadoyanchuk/kottans-js-2016.git)
++ [flor-master/kottans-homework](https://github.com/flor-master/kottans-homework.git)
++ [makovskaia/kottans-hw](https://github.com/makovskaia/kottans-hw.git)
++ [SashaPonomarov/kottans-js-2016](https://github.com/SashaPonomarov/kottans-js-2016.git)
++ [aerobium/kottans-JS-2016](https://github.com/aerobium/kottans-JS-2016)
++ [lempiy/kottans-js-2016](https://github.com/lempiy/kottans-js-2016.git)
++ [Kilmyashkin/kottans](https://github.com/Kilmyashkin/kottans)
++ [bikbaev/kottans-js-2016](https://github.com/bikbaev/kottans-js-2016.git)
++ [YanaPlotnyk/kottans-js-2016](https://github.com/YanaPlotnyk/kottans-js-2016.git)
++ [uapasha/js-kottans-hw](https://github.com/uapasha/js-kottans-hw)
++ [ElegantElephant44/kottans-js-2016](https://github.com/ElegantElephant44/kottans-js-2016)
++ [Yevs/kottans-homework](https://github.com/Yevs/kottans-homework)
 
 ## Kharkiv:
 + [termosa/kottans-js-2016](https://github.com/termosa/kottans-js-2016)  
@@ -64,13 +77,22 @@ FAQ
 + [SergDi/kottans-js-2016](https://github.com/SergDi/kottans-js-2016.git)
 + [srg-kostyrko/kottans-js2016](https://github.com/srg-kostyrko/kottans-js2016.git)
 + [fixerror/kottans-js-2016](https://github.com/fixerror/kottans-js-2016.git)
++ [olroyko/kottans-js-2016](https://github.com/olroyko/kottans-js-2016.git)
++ [spatialhast/kottans-js-2016](https://github.com/spatialhast/kottans-js-2016.git)
++ [OperKH/kottans-js-2016](https://github.com/OperKH/kottans-js-2016.git)
++ [VladyslavIstomin/kottans-js-2016] (https://github.com/VladyslavIstomin/kottans-js-2016.git)
++ [Dmitriy-Yarygin/kottans-js-2016](https://github.com/Dmitriy-Yarygin/kottans-js-2016.git)
 
 ## Lviv:
 + [lolochka/kottans-js-2016](https://github.com/lolochka/kottans-js-2016)
 + [Zavorotyuk/kottans-js-2016](https://github.com/Zavorotyuk/kottans-js-2016.git)
 + [igordubovoy/kottans-js-2016](https://github.com/igordubovoy/JS2016-3-.git)
 + [Leomund/kottans-js-2016](https://github.com/Leomund/kottans-js-2016.git)
-+ [Zaleskyy/kottans-js-2016](https://github.com/zalesky/JS2016-3-.git)
++ [Zaleskyy/kottans-js-2016](https://github.com/zalesky/kottans-js-2016.git)
++ [scorpioRED/kottans-js-2016](https://github.com/scorpioRED/kottans-js-2016.git)
++ [irkafox/kottans-js-2016](https://github.com/irkafox/kottans-js-2016)
++ [yarikgenza/kottans-js-hw](https://github.com/yarikgenza/kottans-js-hw)
++ [romtso/kottans-js-2016](https://github.com/romtso/kottans-js-2016.git)
 8. Я выполнил все задания и прошел курс. Что делать?
 ---------------------------
 Спусти лифт вниз.Учи и помогай другим
