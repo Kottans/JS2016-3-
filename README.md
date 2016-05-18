@@ -51,7 +51,7 @@ FAQ
 
 ## Lviv: 
 
-[Iryna Vas'kiv](https://github.com/irkafox/JS2016-3-)
+[irkafox/kottans-js-2016](https://github.com/irkafox/kottans-js-2016)
 
 8. Я выполнил все задания и прошел курс. Что делать?
 ---------------------------
