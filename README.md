@@ -80,6 +80,7 @@ FAQ
 + [olroyko/kottans-js-2016](https://github.com/olroyko/kottans-js-2016.git)
 + [spatialhast/kottans-js-2016](https://github.com/spatialhast/kottans-js-2016.git)
 + [OperKH/kottans-js-2016](https://github.com/OperKH/kottans-js-2016.git)
++ [Dmitriy-Yarygin/kottans-js-2016](https://github.com/Dmitriy-Yarygin/kottans-js-2016.git)
 
 ## Lviv:
 + [lolochka/kottans-js-2016](https://github.com/lolochka/kottans-js-2016)
