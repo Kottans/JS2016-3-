@@ -52,7 +52,7 @@ FAQ
 + [kyriiherman/kottans-js-2016](https://github.com/kyriiherman/kottans-js-2016.git)
 + [ienovytskyi/kottans-js-2016](https://github.com/ienovytskyi/kottans-js-2016.git)
 + [quodnon/catwork-js-2016](https://github.com/quodnon/catwork-js-2016.git)
-+ [cwayfinder/kottans-js-2016](https://github.com/cwayfinder/kottans-js-2016) 
++ [cwayfinder/kottans-js-2016](https://github.com/cwayfinder/kottans-js-2016)
 + [alexey-kuliw/kottans-homework](https://github.com/alexey-kuliw/kottans-homework.git)
 + [vrd/kottans-js-2016](https://github.com/vrd/kottans-js-2016.git)
 + [MarinaZadoyanchuk/kottans-js-2016](https://github.com/MarinaZadoyanchuk/kottans-js-2016.git)
@@ -81,6 +81,7 @@ FAQ
 + [igordubovoy/kottans-js-2016](https://github.com/igordubovoy/JS2016-3-.git)
 + [Leomund/kottans-js-2016](https://github.com/Leomund/kottans-js-2016.git)
 + [Zaleskyy/kottans-js-2016](https://github.com/zalesky/JS2016-3-.git)
++ [yarikgenza/kottans-js-hw](https://github.com/yarikgenza/kottans-js-hw)
 8. Я выполнил все задания и прошел курс. Что делать?
 ---------------------------
 Спусти лифт вниз.Учи и помогай другим
