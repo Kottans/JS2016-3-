@@ -56,6 +56,7 @@ FAQ
 + [alexey-kuliw/kottans-homework](https://github.com/alexey-kuliw/kottans-homework.git)
 + [vrd/kottans-js-2016](https://github.com/vrd/kottans-js-2016.git)
 + [MarinaZadoyanchuk/kottans-js-2016](https://github.com/MarinaZadoyanchuk/kottans-js-2016.git)
++ [SashaPonomarov/kottans-js-2016](https://github.com/SashaPonomarov/kottans-js-2016.git)
 
 ## Kharkiv:
 + [termosa/kottans-js-2016](https://github.com/termosa/kottans-js-2016)  
