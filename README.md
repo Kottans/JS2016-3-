@@ -47,9 +47,9 @@ FAQ
 
 ## Kiev:
 + [evashchuk/kottans-js-2016-hw](https://github.com/evashchuk/kottans-js-2016-hw.git)  
++ [imbaniac/Kottans-JS-2016](https://github.com/imbaniac/Kottans-JS-2016)  
 
 ## Kharkiv:
-+ [imbaniac/Kottans-JS-2016](https://github.com/imbaniac/Kottans-JS-2016)  
 + [termosa/kottans-js-2016](https://github.com/termosa/kottans-js-2016)  
 + [PShatalov/kottans-js-2016](https://github.com/PShatalov/kottans-js-2016.git)  
 
