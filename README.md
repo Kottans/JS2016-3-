@@ -65,6 +65,7 @@ FAQ
 + [srg-kostyrko/kottans-js2016](https://github.com/srg-kostyrko/kottans-js2016.git)
 + [fixerror/kottans-js-2016](https://github.com/fixerror/kottans-js-2016.git)
 + [olroyko/kottans-js-2016](https://github.com/olroyko/kottans-js-2016.git)
++ [OperKH/kottans-js-2016](https://github.com/OperKH/kottans-js-2016.git)
 
 ## Lviv:
 + [lolochka/kottans-js-2016](https://github.com/lolochka/kottans-js-2016)
