@@ -84,6 +84,7 @@ FAQ
 + [VladyslavIstomin/kottans-js-2016] (https://github.com/VladyslavIstomin/kottans-js-2016.git)
 + [Dmitriy-Yarygin/kottans-js-2016](https://github.com/Dmitriy-Yarygin/kottans-js-2016.git)
 + [Kost9in/kottans-js-2016](https://github.com/Kost9in/kottans-js-2016)
++ [Piotrovskyi/kottans-js-2016](https://github.com/Piotrovskyi/kottans-js-2016)
 
 ## Lviv:
 + [lolochka/kottans-js-2016](https://github.com/lolochka/kottans-js-2016)
