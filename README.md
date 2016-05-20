@@ -94,6 +94,7 @@ FAQ
 + [ElenaP/kottans-js-2016](https://github.com/ElenaP/kottans-js-2016)
 + [sherlaimov/kottans-js-2016](https://github.com/sherlaimov/kottans-js-2016)
 + [chrom/cottans-js-2016](https://github.com/chrom/cottans-js-2016)
++ [AlexGnat/JS2016-3-](https://github.com/AlexGnat/JS2016-3-)
 
 ## Львов:
 + [lolochka/kottans-js-2016](https://github.com/lolochka/kottans-js-2016)
