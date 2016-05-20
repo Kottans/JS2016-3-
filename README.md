@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 New course has started!!!
 
 FAQ
