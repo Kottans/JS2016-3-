@@ -46,6 +46,7 @@ FAQ
 Сюда с помощью PR (pull request):
 
 ## Киев:
++ [Yusti/Kottans-2016](https://github.com/Yusti/Kottans-2016.git)
 + [evashchuk/kottans-js-2016-hw](https://github.com/evashchuk/kottans-js-2016-hw.git)
 + [mcmxc/kottns-hw](https://github.com/mcmxc/kottns-hw.git)
 + [imbaniac/Kottans-JS-2016](https://github.com/imbaniac/Kottans-JS-2016)
