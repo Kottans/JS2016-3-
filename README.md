@@ -46,7 +46,7 @@ FAQ
 Сюда с помощью PR (pull request):
 
 ## Киев:
-+ [Yusti/Kottans-2016](https://github.com/Yusti/Kottans-2016.git)
++ [~~Yusti/Kottans-2016~~](https://github.com/Yusti/Kottans-2016.git)
 + [evashchuk/kottans-js-2016-hw](https://github.com/evashchuk/kottans-js-2016-hw.git)
 + [mcmxc/kottns-hw](https://github.com/mcmxc/kottns-hw.git)
 + [imbaniac/Kottans-JS-2016](https://github.com/imbaniac/Kottans-JS-2016)
@@ -77,7 +77,7 @@ FAQ
 + [Kotuhan/kottans_hw](https://github.com/Kotuhan/kottans_hw.git)
 
 ## Харьков:
-+ [termosa/kottans-js-2016](https://github.com/termosa/kottans-js-2016)  
++ [~~termosa/kottans-js-2016~~](https://github.com/termosa/kottans-js-2016)  
 + [PShatalov/kottans-js-2016](https://github.com/PShatalov/kottans-js-2016.git)
 + [Al4evec/Kottans-JS-2016](https://github.com/Al4evec/Kottans-JS-2016.git)
 + [KBoyarchuk/kottans-js-2016](https://github.com/KBoyarchuk/kottans-js-2016)
@@ -108,15 +108,15 @@ FAQ
 + [Zaleskyy/kottans-js-2016](https://github.com/zalesky/kottans-js-2016.git)
 + [scorpioRED/kottans-js-2016](https://github.com/scorpioRED/kottans-js-2016.git)
 + [~~irkafox/kottans-js-2016~~](https://github.com/irkafox/kottans-js-2016)
-+ [yarikgenza/kottans-js-hw](https://github.com/yarikgenza/kottans-js-hw)
++ [~~yarikgenza/kottans-js-hw~~](https://github.com/yarikgenza/kottans-js-hw)
 + [romtso/kottans-js-2016](https://github.com/romtso/kottans-js-2016.git)
 + [nazartsyhanyuk/kottans-js-2016](https://github.com/nazartsyhanyuk/kottans-js-2016)
 + [DeniChan90/Kottans-HW](https://github.com/DeniChan90/Kottans-HW)
 + [AndriyUkrajnets/kottans-js-2016](https://github.com/AndriyUkrajnets/kottans-js-2016)
-+ [kozakdenys/kottans-js-2016](https://github.com/kozakdenys/kottans-js-2016)
++ [~~kozakdenys/kottans-js-2016~~](https://github.com/kozakdenys/kottans-js-2016)
 + [GusarL/JS2016-3](https://github.com/GusarL/kottans_homework.git)
 + [webmint/kottans-js-2016](https://github.com/webmint/kottans-js-2016.git)
-+ [iprometeus/kottans-js-2016](https://github.com/iprometeus/kottans-js-2016.git)
++ [~~iprometeus/kottans-js-2016~~](https://github.com/iprometeus/kottans-js-2016.git)
 8. Я выполнил все задания и прошел курс. Что делать?
 ---------------------------
 Спусти лифт вниз. Учи и помогай другим
